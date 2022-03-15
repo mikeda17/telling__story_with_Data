@@ -9,4 +9,9 @@ Types of restaurants in LA & chain to non-chain relations.
 <br>
 Number of Seats and Number of branches per chain.
 <br>
+Comparing NOS for different types of food venues.
+<br>
+Analyzing data by streets and number of restaurants.
+<br>
+Recommendation and a presentation for investors considering opening a restaurant.
 
